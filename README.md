@@ -10,13 +10,13 @@ platform.
 Clone the project
 
 ```bash
-  git clone https://github.com/fafifu-befe-fp/fafifu-backend.git
+  git clone https://github.com/adikurniawanid/express-secondhand-api.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd fafifu-backend
+  cd express-secondhand-api
 ```
 
 Install dependencies
