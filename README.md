@@ -5,6 +5,8 @@ kategori kebutuhan. User yang mendaftarkan diri pada aplikasi ini dapat berperan
 yang sama. Platform ini akan mempertemukan seller dan buyer untuk dapat melakukan negosiasi barang dan melakukan transaksi langsung di luar
 platform.
 
+[Demo Website](https://react-secondhand-web.vercel.app/)
+
 ## Run Locally
 
 Clone the project
