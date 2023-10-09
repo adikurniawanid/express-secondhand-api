@@ -5,7 +5,7 @@
     "title": "fafifu-befe-fp",
     "contact": {}
   },
-  "host": "fafifu-backend-api.herokuapp.com",
+  "host": "https://secondhand.onrender.com",
   "basePath": "/v1",
   "securityDefinitions": {
     "apiKey": {
