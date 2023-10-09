@@ -5,7 +5,7 @@
     "title": "fafifu-befe-fp",
     "contact": {}
   },
-  "host": "https://secondhand.onrender.com",
+  "host": "secondhand.onrender.com",
   "basePath": "/v1",
   "securityDefinitions": {
     "apiKey": {
